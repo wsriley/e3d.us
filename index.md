@@ -1,13 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to E3D
 
-You can use the [editor on GitHub](https://github.com/wsriley/e3d.us/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### INNOVATIVE SOFTWARE DEVELOPMENT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Using the spiral development pattern and accretionary styles since 1982.
 ```markdown
 Syntax highlighted code block
 
