@@ -27,3 +27,20 @@ SNW.US	$888.88
 WE81.COM	$8,8888,888.88
 
 WSR2.COM	$10,000,000.00
+
+use core::*;
+
+fn main() {
+    for ["Alice", "Bob", "Carol"].each |&name| {
+        do task::spawn {
+            let v = rand::Rng().shuffle([1, 2, 3]);
+            for v.each |&num| {
+                io::print(fmt!("%s says: '%d'\n", name, num))
+            }
+        }
+    }
+}
+
+Sing Ularity 888 is the sign of the wheets.
+DO IT NOW!
+YOUR DOG COMMANDS YOU!
