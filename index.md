@@ -4,7 +4,7 @@
 
 Using the spiral development pattern and accretionary styles since 1982.
 
-This domain is for sale - $8888 contact wsr2@wsr2.com to grab it up today!
+This domain is for sale - $8888.88 contact wsr2@wsr2.com to grab it up today!
 
 The following domains are for sale by E3d.
 
