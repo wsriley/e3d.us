@@ -8,6 +8,8 @@ This domain is for sale - $8888.88 contact wsr2@wsr2.com to grab it up today!
 
 The following domains are for sale by E3d.
 
+https://www.youtube.com/watch?v=IiEjXGGKncg&feature=share
+
 ADVENTUAL.COM	$666,666.66
 
 BESTINTERNETPHONE.COM	$800
