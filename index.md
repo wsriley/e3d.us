@@ -8,7 +8,7 @@ This domain is for sale - $8888.88 contact wsr2@wsr2.com to grab it up today!
 
 The following domains are for sale by E3d.
 
-ADVENTUAL.COM	$999,999.99
+[ADVENTUAL.COM](http://adventual.com)	$999,999.99
 
 BESTINTERNETPHONE.COM	$800
 
