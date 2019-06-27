@@ -1,6 +1,6 @@
-## Welcome to E3D
+Welcome to E3D
 
-### INNOVATIVE SOFTWARE DEVELOPMENT
+INNOVATIVE SOFTWARE DEVELOPMENT
 
 Using the spiral development pattern and accretionary styles since 1982.
 
@@ -26,3 +26,6 @@ The following domains are for sale by E3d.
 
 [ADVENTUAL.COM](http://adventual.com)	$999,999.99
 
+Not for sale:
+
+[wsr2.com](wsr2.com)
