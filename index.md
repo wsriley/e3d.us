@@ -6,6 +6,8 @@ Using the spiral development pattern and accretionary styles since 1982.
 
 This domain is for sale - $88,888.88 contact wsr2@wsr2.com to grab it up today!
 
+We also have an exciting free sci-fi ebook to read: [Ancient Shiney's Seceret](http://e3d.us/rare-ass.pdf)
+
 The following domains are for sale by E3d.
 
 [BESTINTERNETPHONE.COM](http://BESTINTERNETPHONE.COM) $800 - li
