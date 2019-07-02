@@ -4,9 +4,11 @@ INNOVATIVE SOFTWARE DEVELOPMENT
 
 Using the spiral development pattern and accretionary styles since 1982.
 
-This domain is for sale - $88,888.88 contact wsr2@wsr2.com to grab it up today!
-
 We also have an exciting free sci-fi ebook to read: [Ancient Shiney's Seceret](http://e3d.us/rare-ass.pdf)
+
+Pre-order it today on [Amazon](https://www.amazon.com/dp/B07TQH2ZFP)
+
+Also check out May Dew Think on [Amazon](https://www.amazon.com/dp/B07TRNN833) 
 
 The following domains are for sale by E3d.
 
@@ -31,3 +33,5 @@ The following domains are for sale by E3d.
 Not for sale:
 
 [wsr2.com](wsr2.com) - *
+
+This domain is for sale - $88,888.88 contact wsr2@wsr2.com to grab it up today!
