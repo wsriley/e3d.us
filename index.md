@@ -8,7 +8,11 @@ We also have an exciting free sci-fi ebook to read: [Ancient Shiney's Seceret](h
 
 Pre-order it today on [Amazon](https://www.amazon.com/dp/B07TQH2ZFP)
 
-Also check out May Dew Think on [Amazon](https://www.amazon.com/dp/B07TRNN833) 
+Also check out the book that Made You Think [May Dew Think](https://www.amazon.com/dp/B07TRNN833) 
+
+on 
+
+[Amazon](https://www.amazon.com/dp/B07TRNN833) 
 
 The following domains are for sale by E3d.
 
