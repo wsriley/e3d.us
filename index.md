@@ -4,7 +4,9 @@ INNOVATIVE SOFTWARE DEVELOPMENT
 
 Using the spiral development pattern and accretionary styles since 1982.
 
-We also have an exciting free sci-fi ebook sample to read: [Ancient Shiney's Seceret](http://e3d.us/rare-ass.pdf)
+We also have an exciting free sci-fi ebook sample to read: 
+
+[Ancient Shiney's Seceret](http://e3d.us/rare-ass.pdf)
 
 Pre-order it today on [Amazon](https://www.amazon.com/dp/B07TQH2ZFP)
 
