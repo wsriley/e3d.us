@@ -31,5 +31,3 @@ The following domains are for sale by E3d.
 [NCPL007.COM](http://NCPL007.COM)	$99.9
 
 [SEEREEUSFUN.COM](http://SEEREEUSFUN.COM)	$99.9
-
-[SNW.US](http://SNW.US)	$888.88
