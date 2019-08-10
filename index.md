@@ -22,6 +22,8 @@ on
 
 [Amazon](https://www.amazon.com/dp/B07TRNN833) 
 
+We also broker domain name sales for select clients.  We can help you sell your domain;)
+
 The following domains are for sale by E3d.
 
 [BESTINTERNETPHONE.COM](http://BESTINTERNETPHONE.COM) $800
