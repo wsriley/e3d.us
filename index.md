@@ -6,7 +6,7 @@ Using the spiral development pattern and accretionary styles since 1982.
 
 This is primarily a programmer for hire business for Warren Steven Riley Jr.  You can check out his career at [linked in.](http://linkedin.com/in/wsriley)
 
-You can find his resume as a pdf [here](http://e3d.us/wsr2019_resume.pdf)
+You can find his resume as a pdf [here]("http://e3d.us/resume steve riley - 2019.pdf")
 
 
 We also have an exciting free sci-fi ebook sample to read: 
