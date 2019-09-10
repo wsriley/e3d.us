@@ -36,3 +36,5 @@ The following domains are for sale by E3d.
 [NCPL007.COM](http://NCPL007.COM)	$99.9
 
 [SEEREEUSFUN.COM](http://SEEREEUSFUN.COM)	$99.9
+
+If I die my death wishes can be found here: https://docs.google.com/document/d/1W0esHyKKD4ZJM773SyjgeMYK1mg34Gv1yA-vbt4aLus/edit?usp=sharing
