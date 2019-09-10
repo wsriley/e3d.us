@@ -16,3 +16,9 @@ The following domains are for sale by E3d.us
 
 [WE81.COM](http://we81.com)	$8,8888,888.88
 
+If I should die please find my final wishes here on this public link:
+
+https://docs.google.com/document/d/1W0esHyKKD4ZJM773SyjgeMYK1mg34Gv1yA-vbt4aLus/edit?usp=sharing
+
+
+
