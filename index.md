@@ -10,10 +10,6 @@ This is primarily a programmer for hire business for Warren Steven Riley Jr.  Yo
 
 You can find his resume as a pdf [here](http://e3d.us/Resume_Steve_Riley_-_2019.pdf)
 
-We also have an exciting free sci-fi ebook sample to read: 
-
-[Ancient Shiney's Secret](http://e3d.us/rare-ass.pdf)
-
 Pre-order it today on [Amazon](https://www.amazon.com/dp/B07TQH2ZFP)
 
 We also broker domain name sales for select clients.  We can help you sell your domain;)
