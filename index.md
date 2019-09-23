@@ -4,7 +4,7 @@ INNOVATIVE SOFTWARE DEVELOPMENT
 
 Using the spiral development pattern and accretionary styles since 1982.
 
-Most of our projects have been under tightly locked NDA since 2010, but our work not under NDA such as our clients at Info Reliance, Dreamworks, Atarri etc. can be found on my linked in profile or my resume. I host this site and my personal site on Github, as I am a strong proponent of all the technologies they use.
+Most of our projects have been under tightly locked NDA since 2010, but our work not under NDA such as our clients at Info Reliance, Dreamworks, Atari etc. can be found on my linked in profile or my resume. I host this site and my personal site on Github, as I am a strong proponent of all the technologies they use.
 
 This is primarily a programmer for hire business for Warren Steven Riley Jr.  You can check out his career at [linked in.](http://linkedin.com/in/wsriley)
 
