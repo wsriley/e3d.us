@@ -44,7 +44,11 @@
 				iframe.style.width = '480px';
 				iframe.style.height = '360px';
 				iframe.style.border = '0px';
-				iframe.src = [ 'https://www.youtube.com/embed/', id, '?rel=0' ].join( '' );
+				if(id.lastIndexOf("http")==-1)
+					iframe.src = [ 'https://www.youtube.com/embed/', id, '?rel=0' ].join( '' );
+				else 
+					iframe.src = id;
+
 				div.appendChild( iframe );
 
 				var object = new CSS3DObject( div );
@@ -72,7 +76,7 @@
 				container.appendChild( renderer.domElement );
 
 				var group = new THREE.Group();
-				group.add( new Element( 'z4Rp4595Akc', 0, 0, 240, 0 ) );
+				group.add( new Element( 'http://wsr2.com', 0, 0, 240, 0 ) );
 				group.add( new Element( 'DI291paS1TU', 240, 0, 0, Math.PI / 2 ) );
 				group.add( new Element( 'esXCzV9EmmM', 0, 0, - 240, Math.PI ) );
 				group.add( new Element( 'ceZHJS3K3o0', - 240, 0, 0, - Math.PI / 2 ) );
